@@ -1,2 +1,1 @@
 ofxCurl
-ofxJSON
